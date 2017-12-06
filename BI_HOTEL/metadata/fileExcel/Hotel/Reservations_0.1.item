@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_p5UwwdbVEeenvZMJxb4VYQ" name="Reservations" dataPackage="_p5UwwtbVEeenvZMJxb4VYQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/Kevin/Dropbox/Cours/ING5/Business Intelligence/TP_Talend/data/Reservations.xlsx" Encoding="ISO-8859-15" UseHeader="true" HeaderValue="7" FirstLineCaption="true" SheetName="resa" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="resa:w&#xA;" generationMode="EVENT_MODE">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_p5UwwtbVEeenvZMJxb4VYQ" name="default" dataManager="_p5UwwdbVEeenvZMJxb4VYQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_p5Uww9bVEeenvZMJxb4VYQ" id="_mkVnYNbUEeenvZMJxb4VYQ" label="Reservations">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwxNbVEeenvZMJxb4VYQ" label="Num__Dossier" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_PN4SoNrXEeeORoIOm6gghw" body="null"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwxdbVEeenvZMJxb4VYQ" label="Montant_HT" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwxtbVEeenvZMJxb4VYQ" label="Montant_TTC" length="-1" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5Uwx9bVEeenvZMJxb4VYQ" label="Nombre_d_adulte" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwyNbVEeenvZMJxb4VYQ" label="Nombre_d_enfant" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwydbVEeenvZMJxb4VYQ" label="Nombre_de_bebe__" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

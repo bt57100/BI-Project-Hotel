@@ -1,0 +1,25 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="Prices.Prix * (Reservations.Nombre_d_adulte + Reservations.Nombre_d_enfant + Reservations.Nombre_de_bebe__)">
+  <variables name="Sejours.Destination" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Sejours.Type_de_client" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Sejours.Num__Dossier" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Sejours.Cree_le" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="Sejours.Categorie_hotel" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Sejours.Arrivee" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="Sejours.Depart" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="Locations.Id" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="Locations.Ville" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Locations.Pays" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Locations.Pop" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Prices.Type_hotel" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Prices.Ville_id" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="Prices.date" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="Prices.Prix" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="Reservations.Num__Dossier" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="Reservations.Montant_HT" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Reservations.Montant_TTC" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Reservations.Nombre_d_adulte" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="Reservations.Nombre_d_enfant" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="Reservations.Nombre_de_bebe__" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="Prices.Prix  * (Reservations.Nombre_d_adulte + Reservations.Nombre_d_enfant + Reservations.Nombre_de_bebe__)" value="null" talendType="id_Double" nullable="true"/>
+</expression:EMFExpression>

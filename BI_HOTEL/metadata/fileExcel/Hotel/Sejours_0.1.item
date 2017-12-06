@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_pQtXcNgbEeee1vfz_8xAdA" name="Sejours" dataPackage="_pQtXcdgbEeee1vfz_8xAdA" Server="Localhost 127.0.0.1" FilePath="C:/Users/Kevin/Dropbox/Cours/ING5/Business Intelligence/TP_Talend/data/Sejours.xlsx" Encoding="ISO-8859-15" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="sejours" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="sejours:w&#xA;" generationMode="EVENT_MODE">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_pQtXcdgbEeee1vfz_8xAdA" name="default" dataManager="_pQtXcNgbEeee1vfz_8xAdA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_pQtXctgbEeee1vfz_8xAdA" id="_bYbZANgbEeee1vfz_8xAdA" label="Sejours">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXc9gbEeee1vfz_8xAdA" label="Destination" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXdNgbEeee1vfz_8xAdA" label="Type_de_client" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXddgbEeee1vfz_8xAdA" label="Num__Dossier" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_NTEy0NrXEeeORoIOm6gghw" body="null"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXdtgbEeee1vfz_8xAdA" label="Cree_le" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXd9gbEeee1vfz_8xAdA" label="Categorie_hotel" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXeNgbEeee1vfz_8xAdA" label="Arrivee" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXedgbEeee1vfz_8xAdA" label="Depart" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
