@@ -6,7 +6,9 @@
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cG-lwtbWEeenvZMJxb4VYQ" label="Type_hotel" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cG-lw9bWEeenvZMJxb4VYQ" label="Ville_id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cG-lxNbWEeenvZMJxb4VYQ" label="date" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cG-lxdbWEeenvZMJxb4VYQ" label="Prix" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cG-lxdbWEeenvZMJxb4VYQ" label="Prix" length="-1" talendType="id_Double" nullable="false" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_9qZngNzIEee1hfwaF3MQYw" body="0"/>
+      </feature>
     </ownedElement>
   </orgomg.cwm.resource.record:RecordFile>
 </xmi:XMI>

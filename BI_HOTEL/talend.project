@@ -87,8 +87,6 @@
     </implicitContextSettings>
     <ItemsRelations xmi:id="_Fuue8NgWEeeSyuSQA-cjvA">
       <baseItem xmi:id="_Fuue8dgWEeeSyuSQA-cjvA" id="_oIVCUNbXEeeqMYkgY5trNw" version="0.1" type="job"/>
-      <relatedItems xmi:id="_Fuue8tgWEeeSyuSQA-cjvA" id="_cG9-sNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
-      <relatedItems xmi:id="_Fuue9dgWEeeSyuSQA-cjvA" id="_BaIvsNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
       <relatedItems xmi:id="_Fuue9tgWEeeSyuSQA-cjvA" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Fuue99gWEeeSyuSQA-cjvA" id="TalendString" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Fuue-NgWEeeSyuSQA-cjvA" id="DataOperation" version="Latest" type="routine"/>
@@ -98,12 +96,28 @@
       <relatedItems xmi:id="_Fuue_NgWEeeSyuSQA-cjvA" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Fuue_dgWEeeSyuSQA-cjvA" id="Relational" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Fuue_tgWEeeSyuSQA-cjvA" id="TalendStringUtil" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_Fuue_9gWEeeSyuSQA-cjvA" id="_cG9-sNbWEeenvZMJxb4VYQ - Prices" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_FuufAdgWEeeSyuSQA-cjvA" id="_BaIvsNbWEeenvZMJxb4VYQ - Locations" version="Latest" type="schema"/>
       <relatedItems xmi:id="_1o4OANgbEeee1vfz_8xAdA" id="_pQriQNgbEeee1vfz_8xAdA" version="Latest" type="property"/>
       <relatedItems xmi:id="_1o4OAdgbEeee1vfz_8xAdA" id="_pQriQNgbEeee1vfz_8xAdA - Sejours" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_slzEUNrWEeeORoIOm6gghw" id="_p5UwwNbVEeenvZMJxb4VYQ" version="Latest" type="property"/>
-      <relatedItems xmi:id="_slzEUdrWEeeORoIOm6gghw" id="_p5UwwNbVEeenvZMJxb4VYQ - Reservations" version="Latest" type="schema"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_pAA4kNzHEee1hfwaF3MQYw">
+      <baseItem xmi:id="_pAA4kdzHEee1hfwaF3MQYw" id="_fpsCYNzHEee1hfwaF3MQYw" version="0.1" type="job"/>
+      <relatedItems xmi:id="_pAA4ktzHEee1hfwaF3MQYw" id="_cG9-sNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_pAA4k9zHEee1hfwaF3MQYw" id="_p5UwwNbVEeenvZMJxb4VYQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_pAA4lNzHEee1hfwaF3MQYw" id="_pQriQNgbEeee1vfz_8xAdA" version="Latest" type="property"/>
+      <relatedItems xmi:id="_pAA4ldzHEee1hfwaF3MQYw" id="_BaIvsNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_pAA4ltzHEee1hfwaF3MQYw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4l9zHEee1hfwaF3MQYw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4mNzHEee1hfwaF3MQYw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4mdzHEee1hfwaF3MQYw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4mtzHEee1hfwaF3MQYw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4m9zHEee1hfwaF3MQYw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4nNzHEee1hfwaF3MQYw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4ndzHEee1hfwaF3MQYw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4ntzHEee1hfwaF3MQYw" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_pAA4n9zHEee1hfwaF3MQYw" id="_cG9-sNbWEeenvZMJxb4VYQ - Prices" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_pAA4oNzHEee1hfwaF3MQYw" id="_pQriQNgbEeee1vfz_8xAdA - Sejours" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_pAA4odzHEee1hfwaF3MQYw" id="_BaIvsNbWEeenvZMJxb4VYQ - Locations" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_pAA4otzHEee1hfwaF3MQYw" id="_p5UwwNbVEeenvZMJxb4VYQ - Reservations" version="Latest" type="schema"/>
     </ItemsRelations>
     <deletedFolders>metadata/fileExcel/Location_Data</deletedFolders>
     <deletedFolders>metadata/fileExcel/Hotel_Data</deletedFolders>

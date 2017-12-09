@@ -14,10 +14,18 @@
         <initialValue xmi:id="_PN4SoNrXEeeORoIOm6gghw" body="null"/>
       </feature>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwxdbVEeenvZMJxb4VYQ" label="Montant_HT" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwxtbVEeenvZMJxb4VYQ" label="Montant_TTC" length="-1" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5Uwx9bVEeenvZMJxb4VYQ" label="Nombre_d_adulte" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwyNbVEeenvZMJxb4VYQ" label="Nombre_d_enfant" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwydbVEeenvZMJxb4VYQ" label="Nombre_de_bebe__" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwxtbVEeenvZMJxb4VYQ" label="Montant_TTC" length="-1" talendType="id_Double" nullable="false" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_0mb7YNzCEee1hfwaF3MQYw" body="0"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5Uwx9bVEeenvZMJxb4VYQ" label="Nombre_d_adulte" length="-1" talendType="id_Double" nullable="false" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_1NIH8NzCEee1hfwaF3MQYw" body="0"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwyNbVEeenvZMJxb4VYQ" label="Nombre_d_enfant" length="-1" talendType="id_Double" nullable="false" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_1a8hgNzCEee1hfwaF3MQYw" body="0"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_p5UwydbVEeenvZMJxb4VYQ" label="Nombre_de_bebe__" length="-1" talendType="id_Double" nullable="false" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_15oBkNzCEee1hfwaF3MQYw" body="0"/>
+      </feature>
     </ownedElement>
   </orgomg.cwm.resource.record:RecordFile>
 </xmi:XMI>
