@@ -16,10 +16,10 @@
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXddgbEeee1vfz_8xAdA" label="Num__Dossier" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
         <initialValue xmi:id="_NTEy0NrXEeeORoIOm6gghw" body="null"/>
       </feature>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXdtgbEeee1vfz_8xAdA" label="Cree_le" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXdtgbEeee1vfz_8xAdA" label="Cree_le" length="-1" talendType="id_Date" pattern="&quot;MM/dd/yy&quot;"/>
       <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXd9gbEeee1vfz_8xAdA" label="Categorie_hotel" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXeNgbEeee1vfz_8xAdA" label="Arrivee" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
-      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXedgbEeee1vfz_8xAdA" label="Depart" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXeNgbEeee1vfz_8xAdA" label="Arrivee" length="-1" talendType="id_Date" pattern="&quot;MM/dd/yy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_pQtXedgbEeee1vfz_8xAdA" label="Depart" length="-1" talendType="id_Date" pattern="&quot;MM/dd/yy&quot;"/>
     </ownedElement>
   </orgomg.cwm.resource.record:RecordFile>
 </xmi:XMI>

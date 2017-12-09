@@ -98,6 +98,12 @@
       <relatedItems xmi:id="_Fuue_tgWEeeSyuSQA-cjvA" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_1o4OANgbEeee1vfz_8xAdA" id="_pQriQNgbEeee1vfz_8xAdA" version="Latest" type="property"/>
       <relatedItems xmi:id="_1o4OAdgbEeee1vfz_8xAdA" id="_pQriQNgbEeee1vfz_8xAdA - Sejours" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_OHJpoNzQEee1hfwaF3MQYw" id="_cG9-sNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_OHJpodzQEee1hfwaF3MQYw" id="_p5UwwNbVEeenvZMJxb4VYQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_OHJpotzQEee1hfwaF3MQYw" id="_BaIvsNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
+      <relatedItems xmi:id="_OHJpo9zQEee1hfwaF3MQYw" id="_cG9-sNbWEeenvZMJxb4VYQ - Prices" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_OHJppNzQEee1hfwaF3MQYw" id="_BaIvsNbWEeenvZMJxb4VYQ - Locations" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_OHJppdzQEee1hfwaF3MQYw" id="_p5UwwNbVEeenvZMJxb4VYQ - Reservations" version="Latest" type="schema"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_pAA4kNzHEee1hfwaF3MQYw">
       <baseItem xmi:id="_pAA4kdzHEee1hfwaF3MQYw" id="_fpsCYNzHEee1hfwaF3MQYw" version="0.1" type="job"/>
