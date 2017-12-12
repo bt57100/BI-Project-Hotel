@@ -201,7 +201,7 @@
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" precision="0" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
   </node>
-  <node componentName="tUniqRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="96" posY="448">
+  <node componentName="tUniqRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="192" posY="448">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tUniqRow_1" show="false"/>
     <elementParameter field="TABLE" name="UNIQUE_KEY">
       <elementValue elementRef="SCHEMA_COLUMN" value="Destination"/>
@@ -361,9 +361,9 @@
       <column comment="" defaultValue="0" key="false" length="-1" name="Discount" nullable="false" pattern="" precision="-1" sourceType="" type="id_Double" originalLength="-1" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties/>
+      <uiProperties shellMaximized="true"/>
       <varTables sizeState="INTERMEDIATE" name="Var">
-        <mapperTableEntries name="Discount" expression="1 - (TotalMontantTTC.Montant_TTC/TotalFullPrice.Full_Price) " type="id_Double"/>
+        <mapperTableEntries name="Discount" expression="TotalMontantTTC.Montant_TTC - TotalFullPrice.Full_Price " type="id_Double"/>
       </varTables>
       <outputTables sizeState="INTERMEDIATE" name="result">
         <mapperTableEntries name="Categorie_hotel" expression="TotalFullPrice.Categorie_hotel " type="id_String" nullable="true"/>
