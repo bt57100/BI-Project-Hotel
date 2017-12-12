@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Sb4y4N8NEeeba6G9-riKaw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Sb5Z8N8NEeeba6G9-riKaw" comment="" name="OutputFilename" prompt="OutputFilename?" promptNeeded="false" type="id_String" value="&quot;TCSV _donnaint_guoi.csv&quot;"/>
+  <contextParameter xmi:id="_Sb5Z8d8NEeeba6G9-riKaw" comment="" name="OutputDir" prompt="OutputDir?" promptNeeded="false" type="id_String" value="&quot;C:\Users\Kevin\Dropbox\Cours\ING5\Business Intelligence\TP_Talend\out\&quot;"/>
+</talendfile:ContextType>

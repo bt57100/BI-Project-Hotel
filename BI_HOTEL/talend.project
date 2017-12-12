@@ -104,11 +104,11 @@
       <relatedItems xmi:id="_OHJpo9zQEee1hfwaF3MQYw" id="_cG9-sNbWEeenvZMJxb4VYQ - Prices" version="Latest" type="schema"/>
       <relatedItems xmi:id="_OHJppNzQEee1hfwaF3MQYw" id="_BaIvsNbWEeenvZMJxb4VYQ - Locations" version="Latest" type="schema"/>
       <relatedItems xmi:id="_OHJppdzQEee1hfwaF3MQYw" id="_p5UwwNbVEeenvZMJxb4VYQ - Reservations" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_YssCkN8NEeeba6G9-riKaw" id="_SbxeIN8NEeeba6G9-riKaw" version="Latest" type="context"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_pAA4kNzHEee1hfwaF3MQYw">
       <baseItem xmi:id="_pAA4kdzHEee1hfwaF3MQYw" id="_fpsCYNzHEee1hfwaF3MQYw" version="0.1" type="job"/>
       <relatedItems xmi:id="_pAA4ktzHEee1hfwaF3MQYw" id="_cG9-sNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
-      <relatedItems xmi:id="_pAA4k9zHEee1hfwaF3MQYw" id="_p5UwwNbVEeenvZMJxb4VYQ" version="Latest" type="property"/>
       <relatedItems xmi:id="_pAA4lNzHEee1hfwaF3MQYw" id="_pQriQNgbEeee1vfz_8xAdA" version="Latest" type="property"/>
       <relatedItems xmi:id="_pAA4ldzHEee1hfwaF3MQYw" id="_BaIvsNbWEeenvZMJxb4VYQ" version="Latest" type="property"/>
       <relatedItems xmi:id="_pAA4ltzHEee1hfwaF3MQYw" id="Numeric" version="Latest" type="routine"/>
@@ -123,7 +123,7 @@
       <relatedItems xmi:id="_pAA4n9zHEee1hfwaF3MQYw" id="_cG9-sNbWEeenvZMJxb4VYQ - Prices" version="Latest" type="schema"/>
       <relatedItems xmi:id="_pAA4oNzHEee1hfwaF3MQYw" id="_pQriQNgbEeee1vfz_8xAdA - Sejours" version="Latest" type="schema"/>
       <relatedItems xmi:id="_pAA4odzHEee1hfwaF3MQYw" id="_BaIvsNbWEeenvZMJxb4VYQ - Locations" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_pAA4otzHEee1hfwaF3MQYw" id="_p5UwwNbVEeenvZMJxb4VYQ - Reservations" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_oHmmgN8PEeeba6G9-riKaw" id="_SbxeIN8NEeeba6G9-riKaw" version="Latest" type="context"/>
     </ItemsRelations>
     <deletedFolders>metadata/fileExcel/Location_Data</deletedFolders>
     <deletedFolders>metadata/fileExcel/Hotel_Data</deletedFolders>
